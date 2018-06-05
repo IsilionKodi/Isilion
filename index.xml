@@ -1,26 +1,41 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
  
 <item>
-<title>Estrenos Isilion</title>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/IsilionKodi/Isilion/master/estrenos.xml</externallink>
-</item>
- 
-<item>
-<title>Accion Isilion</title>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/IsilionKodi/Isilion/master/accion.xml</externallink>
-</item>
- 
-<item>
-<title>Canales España</title>
+<title>Canales España (SD Opción 1)</title>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
 <externallink>http://oqefuh.blogspot.com/p/canales-en-sd.html</externallink>
 </item>
  
+<item>
+<title>Canales España (HD Opción 1)</title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+<externallink>http://oqefuh.blogspot.com.es/p/lista-2-espana.html</externallink>
+</item>
+ 
+<item>
+<title>Canales España (HD Opción 2)</title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+<externallink>http://oqefuh.blogspot.com.es/p/lista-3-espana.html</externallink>
+</item>
+ 
+<item>
+<title>Canales España (HD Opción 3)</title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+<externallink>http://oqefuh.blogspot.com.es/p/lista-4-espana.html</externallink>
+</item>
+
+<item>
+<title>Canal+ (sportsdevil)</title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+<externallink><sportsdevil>http://tvenganchado.com/canalplus</sportsdevil></externallink>
+</item>
