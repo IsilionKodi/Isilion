@@ -2,6 +2,21 @@
 
 <item>
 <title>Estrenos Isilion</title>        
+<urlsolve>http://cinestrenostv.tv/canales/envivo/plusestrenos.html</urlsolve>
+<thumbnail>http://www.tinglado.net/files/manuel/imagenes/Yodapng.png</thumbnail>
+<fanart>http://shop.rhodani.com/img/cms/tienda-bilbao-interior2.jpg</fanart>
+</item>
+
+<item>
+<title>Estrenos Isilion 2</title>        
+<urlsolve>view-source:http://telefivegb.com/canales/pelis/estrenos/</urlsolve>
+<thumbnail>http://www.tinglado.net/files/manuel/imagenes/Yodapng.png</thumbnail>
+<fanart>http://shop.rhodani.com/img/cms/tienda-bilbao-interior2.jpg</fanart>
+</item>
+
+
+<item>
+<title>Estrenos Isilion 3</title>        
 <urlsolve>http://cinestrenostv.tv/canales/nacionales/plus-estrenos.php</urlsolve>
 <thumbnail>http://www.tinglado.net/files/manuel/imagenes/Yodapng.png</thumbnail>
 <fanart>http://shop.rhodani.com/img/cms/tienda-bilbao-interior2.jpg</fanart>
